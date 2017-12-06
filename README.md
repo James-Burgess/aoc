@@ -6,10 +6,10 @@ My solutions for the 2017 advent of code.
 ## Language
 python
 ## Directory
-- [x] [Day 1](https://github.com/James-Burgess/aoc/tree/master/d1)
-- [x] [Day 2](https://github.com/James-Burgess/aoc/tree/master/d2)
-- [x] [Day 3](https://github.com/James-Burgess/aoc/tree/master/d3)
-- [x] [Day 4](https://github.com/James-Burgess/aoc/tree/master/d4)
+- [x] [Day 1](https://github.com/James-Burgess/aoc/tree/master/d1) - inverse captcha
+- [x] [Day 2](https://github.com/James-Burgess/aoc/tree/master/d2) - Corruption Checksum
+- [x] [Day 3](https://github.com/James-Burgess/aoc/tree/master/d3) - Spiral Memory 
+- [x] [Day 4](https://github.com/James-Burgess/aoc/tree/master/d4) - High-Entropy Passphrases
 - [ ] [Day 5](https://github.com/James-Burgess/aoc/tree/master/d5)
 - [ ] [Day 6](https://github.com/James-Burgess/aoc/tree/master/d6)
 - [ ] [Day 7](https://github.com/James-Burgess/aoc/tree/master/d7)
