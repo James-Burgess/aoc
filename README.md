@@ -6,7 +6,7 @@ My solutions for the 2017 advent of code.
 ## Language
 python
 ## Directory
-- [x] [Day 1](https://github.com/James-Burgess/aoc/tree/master/d1) - inverse captcha
+- [x] [Day 1](https://github.com/James-Burgess/aoc/tree/master/d1) - Inverse Captcha
 - [x] [Day 2](https://github.com/James-Burgess/aoc/tree/master/d2) - Corruption Checksum
 - [x] [Day 3](https://github.com/James-Burgess/aoc/tree/master/d3) - Spiral Memory 
 - [x] [Day 4](https://github.com/James-Burgess/aoc/tree/master/d4) - High-Entropy Passphrases
