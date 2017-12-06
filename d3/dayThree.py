@@ -13,3 +13,4 @@ def smallestCenterRoute(number):
 
 number = 1024
 print(smallestCenterRoute(number))
+
