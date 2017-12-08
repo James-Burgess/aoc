@@ -11,8 +11,6 @@ def getInput():
 # 		array.append(small_array)
 #	return(array)
 
-
-
 def checksumCalc(array):
 	checksum = 0
 	for i in array:
@@ -34,7 +32,5 @@ test_array = [[5,9,2,8],[9,4,7,3],[3,8,6,5]]
 array = getInput()
 
 print(checksumCalc(array))
-
-
 print(evenlyDivisibleValue(array))
 
