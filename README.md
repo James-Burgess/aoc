@@ -10,7 +10,7 @@ python
 - [x] [Day 2](https://github.com/James-Burgess/aoc/tree/master/d2) - Corruption Checksum
 - [x] [Day 3](https://github.com/James-Burgess/aoc/tree/master/d3) - Spiral Memory 
 - [x] [Day 4](https://github.com/James-Burgess/aoc/tree/master/d4) - High-Entropy Passphrases
-- [ ] [Day 5](https://github.com/James-Burgess/aoc/tree/master/d5)
+- [x] [Day 5](https://github.com/James-Burgess/aoc/tree/master/d5) - A Maze of Twisty Trampolines
 - [ ] [Day 6](https://github.com/James-Burgess/aoc/tree/master/d6)
 - [ ] [Day 7](https://github.com/James-Burgess/aoc/tree/master/d7)
 - [ ] [Day 8](https://github.com/James-Burgess/aoc/tree/master/d8)
