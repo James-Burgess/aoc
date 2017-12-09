@@ -4,7 +4,7 @@ My solutions for the 2017 advent of code.
 [Sign Up!](http://adventofcode.com/2017)
 <br>
 ## Language
-python
+Python
 ## Directory
 - [x] [Day 1](https://github.com/James-Burgess/aoc/tree/master/d1) - Inverse Captcha
 - [x] [Day 2](https://github.com/James-Burgess/aoc/tree/master/d2) - Corruption Checksum
