@@ -3,5 +3,4 @@ version: '3'
 tasks:
   default:
     cmds:
-      - python scripts/main.py {{.CLI_ARGS}}
-
+      - python new.py {{.CLI_ARGS}}

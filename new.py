@@ -6,10 +6,10 @@ def create(day):
 
     template = template.replace("{day}", day)
 
-    with open(f"day_{day}.py", "w") as f:
+    with open(f"2024/day_{day}.py", "w") as f:
         f.write(template)
 
-    with open(f"d{day}.txt", "w") as f:
+    with open(f"2024/d{day}.txt", "w") as f:
         f.write("")
 
 

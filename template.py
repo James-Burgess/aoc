@@ -9,7 +9,7 @@ from utils import InputFile
 
 
 def part_1():
-    file = InputFile("d{day}.txt")
+    file = InputFile("{day}")
 
     print(file)
     print(len(file))
@@ -17,7 +17,7 @@ def part_1():
 
 
 def part_2():
-    ...
+    file = InputFile("{day}")
 
 
 if __name__ == "__main__":

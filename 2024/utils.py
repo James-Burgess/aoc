@@ -5,7 +5,7 @@ class InputFile:
         self.read()
 
     def read(self):
-        with open(self.filename) as f:
+        with open(f"2024/d{self.filename}.txt") as f:
             file = f.read()
             self.lines = file.splitlines()
 
